@@ -58,15 +58,15 @@ Arduino back and front:
 
 ## Suzuki Swift Sport installation tips
 The most important one - average ebay oil sandwich does not fit the depth of oil filter winding.
-Even fully screwed on the extension tube does not hold the sandwich in place, there is a gap of ~1mm. The sim is required to offset the gap and ensure tight seal between  
+Even fully screwed on the fitting does not hold the sandwich in place, there is a gap of ~1mm. The sim is required to offset the gap and ensure tight seal between  
 sandwich plate and oil filter flange on the engine:  
 <img src="https://github.com/iaroshukandrii/arduino-race-chrono-oil-temp-sensor/blob/main/IMG_4663.JPG?raw=true" alt="race_chrono_settings" width="300"/>
 <img src="https://github.com/iaroshukandrii/arduino-race-chrono-oil-temp-sensor/blob/main/IMG_4666.JPG?raw=true" alt="race_chrono_settings" width="300"/>
 
-(note the shim installed between sandwich and extension tube)
+(note the shim installed between the sandwich and the fitting)
 
 Oil feed diameter:
-Suzuki Swift Sport oil feed inner diameter is 14mm (TODO add photo). The average ebay oil sandwich extension tube is 12mm. The metal is soft enough and there is enough "meat"  
+Suzuki Swift Sport oil feed inner diameter is 14mm (TODO add photo). The average ebay oil sandwich fitting is 12mm. The metal is soft enough and there is enough "meat"  
 to grind it off with a file, or machine it - if you have access to one.  
 Top - as sold on ebay, bottom - opened up with a file:  
 <img src="https://github.com/iaroshukandrii/arduino-race-chrono-oil-temp-sensor/blob/main/IMG_4662.JPG?raw=true" alt="race_chrono_settings" width="300"/>
